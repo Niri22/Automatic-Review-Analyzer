@@ -3,7 +3,7 @@ The goal of this project is to design a classifier to use for sentiment analysis
 review, respectively.
 
 
-#Goals: 
+# Goals: 
 1. Implement and compare three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm.
 
 2. Use your classifiers on the food review dataset, using some simple text features.
