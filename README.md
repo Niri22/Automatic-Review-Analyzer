@@ -6,6 +6,6 @@ review, respectively.
 # Goals: 
 1. Implement and compare three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm.
 
-2. Use your classifiers on the food review dataset, using some simple text features.
+2. Use my classifiers on the food review dataset, using some simple text features.
 
 3. Experiment with additional features and explore their impact on classifier performance.
